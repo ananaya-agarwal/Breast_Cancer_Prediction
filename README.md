@@ -20,11 +20,8 @@ The Breast Cancer Detection Model achieved **high accuracy** and strong predicti
 
 | Metric   | Value  |
 |----------|--------|
-| Accuracy | 98.2%  |
-| Precision| 98.0%  |
-| Recall   | 97.5%  |
-| F1-Score | 97.7%  |
-| R² Score | 0.96   |
+| Accuracy | 96.49%  |
+| R² Score | 0.8552  |
 
 These metrics indicate that the model is highly reliable for real-world diagnostic support.
 
